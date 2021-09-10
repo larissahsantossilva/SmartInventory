@@ -1,6 +1,6 @@
 # SmartInventory
 
-projeto na branch master
+#Projeto na branch master
 
 Integrantes do grupo:                             
 Carlos Eduardo Hayashi - RM 85225                                              
